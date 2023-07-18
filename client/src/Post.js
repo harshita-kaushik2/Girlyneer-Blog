@@ -2,7 +2,7 @@ export default function Post() {
     return (
     <div className="post">
       <div className="image">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8V2thbJQ8aL-ZkwQeMYje0ZrkLH1jQTW3mw"></img>
+      <img src=""></img>
       </div>
       <div className="texts">
       <h2>Life of Girls at NIT Agartala</h2>
